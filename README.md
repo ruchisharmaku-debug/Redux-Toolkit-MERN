@@ -118,7 +118,7 @@ src/
 
 **Ruchi Sharma**
 B.Tech CSE (AI & Data Science) — KMCLU, Lucknow
-[LinkedIn](#) · [GitHub](https://github.com/ruchisharmaku-debug)
+[https://www.linkedin.com/in/ruchi-sharma-dev/](#) · [GitHub](https://github.com/ruchisharmaku-debug)
 
 ---
 
